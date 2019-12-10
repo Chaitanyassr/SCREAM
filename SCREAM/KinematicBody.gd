@@ -1,4 +1,4 @@
-xtends KinematicBody
+extends KinematicBody
 
 var speed = 200
 var direction = Vector3()
